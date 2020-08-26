@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![Education in Moz](C:\Users\ASUS\Desktop\Knowledge\Educacao em Moz\Images\Imag.png)
 Use the left arrow to go back!
